@@ -4,4 +4,4 @@ With this Great Grey Goose character asset you can built your own army of goosel
 
 ![SCREENSHOT](image_goose.jpg)
 
-Unreal Engine Ready Asset.
+Unreal Engine Ready Asset 4.26-5.5
